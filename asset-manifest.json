@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://agrawalshanu708.github.io/csb-kx66h/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://agrawalshanu708.github.io/csb-kx66h/static/js/main.1abd950d.chunk.js",
+    "main.js.map": "https://agrawalshanu708.github.io/csb-kx66h/static/js/main.1abd950d.chunk.js.map",
+    "runtime-main.js": "https://agrawalshanu708.github.io/csb-kx66h/static/js/runtime-main.bd363d6d.js",
+    "runtime-main.js.map": "https://agrawalshanu708.github.io/csb-kx66h/static/js/runtime-main.bd363d6d.js.map",
+    "static/js/2.018b186f.chunk.js": "https://agrawalshanu708.github.io/csb-kx66h/static/js/2.018b186f.chunk.js",
+    "static/js/2.018b186f.chunk.js.map": "https://agrawalshanu708.github.io/csb-kx66h/static/js/2.018b186f.chunk.js.map",
+    "index.html": "https://agrawalshanu708.github.io/csb-kx66h/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://agrawalshanu708.github.io/csb-kx66h/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.018b186f.chunk.js.LICENSE.txt": "https://agrawalshanu708.github.io/csb-kx66h/static/js/2.018b186f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd363d6d.js",
+    "static/js/2.018b186f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1abd950d.chunk.js"
+  ]
+}
